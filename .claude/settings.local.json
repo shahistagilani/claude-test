@@ -4,7 +4,13 @@
       "Bash(claude mcp add:*)",
       "Bash(curl:*)",
       "Bash(open http://localhost:3000)",
-      "Bash(git pull:*)"
+      "Bash(git pull:*)",
+      "Bash(npm audit:*)",
+      "Bash(npm test:*)",
+      "Bash(npm ls:*)",
+      "Bash(cat:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run build:*)"
     ]
   }
 }
