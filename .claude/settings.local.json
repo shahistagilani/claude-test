@@ -10,7 +10,8 @@
       "Bash(npm ls:*)",
       "Bash(cat:*)",
       "Bash(npm install:*)",
-      "Bash(npm run build:*)"
+      "Bash(npm run build:*)",
+      "mcp__playwright"
     ]
   }
 }
